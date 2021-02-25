@@ -2,7 +2,7 @@
 
 [![Latest version](https://img.shields.io/packagist/v/desmart/laravel-uuid-id.svg?style=flat)](https://github.com/DeSmart/laravel-uuid-id)
 ![Tests](https://github.com/desmart/laravel-uuid-id/workflows/Run%20Tests/badge.svg)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/DeSmart/laravel-money/blob/master/LICENSE)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/DeSmart/laravel-uuid-id/blob/master/LICENSE)
 
 Package provides a simple trait that allows to use UUIDs as IDs in Laravel models.
 
