@@ -4,7 +4,7 @@
 ![Tests](https://github.com/desmart/laravel-uuid-id/workflows/Run%20Tests/badge.svg)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/DeSmart/laravel-uuid-id/blob/master/LICENSE)
 
-Package provides a simple trait that allows to use UUIDs as IDs in Laravel models.
+Package provides a simple trait that allows to use/generate UUIDs as IDs in Laravel models.
 
 ## Installation
 To install the package via Composer, simply run the following command:
