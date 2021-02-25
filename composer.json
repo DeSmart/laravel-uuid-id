@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/database": "^8.21.1",
-        "illuminate/support": "^8.21.1"
+        "illuminate/database": "^8.0",
+        "illuminate/support": "^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.13",
