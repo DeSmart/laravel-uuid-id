@@ -1,0 +1,40 @@
+{
+    "name": "desmart/laravel-uuid-id",
+    "type": "library",
+    "description": "Use UUIDs as IDs in Laravel models",
+    "license": "MIT",
+    "keywords": ["desmart", "laravel", "uuid", "id", "model"],
+    "authors": [
+        {
+            "name": "Michał Golon",
+            "email": "gollum@desmart.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/database": "^8.12",
+        "illuminate/support": "^8.12"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0",
+        "phpunit/phpunit": "^9.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "DeSmart\\Laravel\\Uuid\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "DeSmart\\Laravel\\Uuid\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
